@@ -1,0 +1,38 @@
+.imagen-logo{
+    margin: center;
+    margin-left:20%;
+}
+.boton-iniciar{
+    margin: 50px;
+    margin-left: 20%;
+    padding-top: 10px;
+    width: 200px;
+    height: 70px;
+    background-color: #252524;
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    border-style:solid;
+    color: aliceblue;
+
+    font-style: italic;
+}
+.texto-boton__iniciar{
+    color: #fff;
+}
+.txto-boton__registrar{
+    color:#fff
+}
+
+.boton-registrar{
+    margin: 50px;
+    margin-left: 20%;
+    padding-top: 10px;
+    width: 200px;
+    height: 70px;
+    background-color: #252524;
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    border-style:solid;
+    color:antiquewhite;
+    font-style: italic;
+}
